@@ -12,3 +12,10 @@ Intro:
   black office chair did I finally get to the lingering pile of office supplies. Despite
   all of my work that day, the only new addition to the space was this one office chair. It was
   time to buy a couch.
+
+        I got in my car to drive to the furniture store to look at buying a couch. As I entered the
+  store I was greeted by a worker asking me if I needed help. I told her I was just looking because I
+  did not want to be bothered as I looked around the store for the perfect one. I looked a few couches but 
+  none of them were quite the right fit. One was too small, another too big. Many of the couches that I tried
+  out were not even that comfortable, not to mention the ridiculous prices on these couches. I was just about
+  to give up and try again another day when I saw it.
